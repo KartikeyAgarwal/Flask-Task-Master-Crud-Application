@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+h1 {
+	/* margin: 1em 0 0.5em 0; */
+	/* color: #343434; */
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	/* font-size: 36px; */
+	/* line-height: 42px; */
+	text-transform: uppercase;
+	text-shadow: 0 1px brown, 1.5px 3px #999;
+}
+table, td, th{
+    border: 2px groove brown;
+    border-collapse: collapse;
+}
+table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    height: 40px;
+    font-family:cursive;
+    font-size: larger;
+}
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+.content {
+    margin: 1.5% auto;
+    width: 60%;
+    background-color: #e6e6e6;
+}
+
+.form{
+    margin-top: 20px;
+    margin-left: 16%;
+}
+
+#content {
+    width: 60%;
+}
+
+#addTask {
+    margin-left: 5%;
+    width: 15%;
+    padding: 3px
+}
+
+#Update {
+    margin-left: 5%;
+    width: 15%;
+    padding: 3px
+}
