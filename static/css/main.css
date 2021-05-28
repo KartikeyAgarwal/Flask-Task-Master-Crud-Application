@@ -49,12 +49,12 @@ td{
 
 #addTask {
     margin-left: 5%;
-    width: 15%;
+    min-width: 15%;
     padding: 3px
 }
 
 #Update {
     margin-left: 5%;
-    width: 15%;
+    min-width: 15%;
     padding: 3px
 }
